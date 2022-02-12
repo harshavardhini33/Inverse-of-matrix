@@ -1,6 +1,7 @@
 # Inverse-of-matrix
 
 ## AIM:
+To write a python program for Inverse of matrix
 
 ## ALGORITHM:
 ### Step 1:
